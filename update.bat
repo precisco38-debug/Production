@@ -1,3 +1,4 @@
 git add .
 git commit -m "Add portal, projects, tutorials, and security shield"
-git push origin main
+
+git push -f origin main
